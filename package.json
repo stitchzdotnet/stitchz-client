@@ -1,6 +1,6 @@
 {
   "name": "stitchz-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stitchz.net javascript client to include in npm (node.js, commonjs, etc.) solutions",
   "main": "./lib",
   "repository": {
